@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divish Jindal</h1>
 <h3 align="center">I enjoy transforming complex data into actionable insights. With hands-on experience in tools like Python, SQL, and Tableau, I aim to bridge the gap between data and decision-making. I’m eager to take on challenging roles where I can contribute to impactful analytics projects and grow as a data-driven problem solver.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divishjindal19" alt="divishjindal19" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/divish_jindal" target="blank"><img src="https://img.shields.io/twitter/follow/divish_jindal?logo=twitter&style=for-the-badge" alt="divish_jindal" /></a> </p>
+- 📝 I regularly write articles on [https://medium.com/@divishjindal1005](https://medium.com/@divishjindal1005)
 
 - 📫 How to reach me **divishjindal1005@gmail.com**
 
@@ -26,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divishjindal19&show_icons=true&locale=en" alt="divishjindal19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divishjindal19&" alt="divishjindal19" /></p>
+
