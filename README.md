@@ -11,9 +11,9 @@
 <p align="left">
 <a href="https://twitter.com/divish_jindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divish_jindal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/divishjindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/divishjindal" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/divishjindal09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/divishjindal09" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/divishjindal1005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/divishjindal1005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/jindal_divish007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jindal_divish007/" height="30" width="40" /></a>
+<a href="https://kaggle.com/divishjindal09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="divishjindal09" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/divishjindal1005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="divishjindal1005" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jindal_divish007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jindal_divish007" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
