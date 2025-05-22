@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **divishjindal1005@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HfO3LZfBshgb3IvlelCI5W5QP5uViWQt/view?usp=sharing](https://drive.google.com/file/d/1HfO3LZfBshgb3IvlelCI5W5QP5uViWQt/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YNDM1UDfthzgHJ2rbitGznno7CnqFvCe/view?usp=sharing](https://drive.google.com/file/d/1YNDM1UDfthzgHJ2rbitGznno7CnqFvCe/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
