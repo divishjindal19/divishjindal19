@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divish Jindal</h1>
 <h3 align="center">I enjoy transforming complex data into actionable insights. With hands-on experience in tools like Python, SQL, and Tableau, I aim to bridge the gap between data and decision-making. I’m eager to take on challenging roles where I can contribute to impactful analytics projects and grow as a data-driven problem solver.</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@divishjindal1005](https://medium.com/@divishjindal1005)
-
-- 📫 How to reach me **divishjindal1005@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HfO3LZfBshgb3IvlelCI5W5QP5uViWQt/view?usp=sharing](https://drive.google.com/file/d/1HfO3LZfBshgb3IvlelCI5W5QP5uViWQt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
