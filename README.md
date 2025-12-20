@@ -1,3 +1,4 @@
+https://camo.githubusercontent.com/d285d770d9c775fdb9795a5ad816ac7b3622c5fbb324f5b379adf5ae11a2bd97/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62332f32362f35312f62333236353137636438636134346239333961316265653431613766313033632e676966
 <h1 align="center">Hi 👋, I'm Divish Jindal</h1>
 <h3 align="center">I enjoy transforming complex data into actionable insights. With hands-on experience in tools like Python, SQL, and Tableau, I aim to bridge the gap between data and decision-making. I’m eager to take on challenging roles where I can contribute to impactful analytics projects and grow as a data-driven problem solver.</h3>
 
