@@ -2,6 +2,21 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+
+
+
+<img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="100%"/>
+
+<!-- Snake Animation -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Divish Jindal</h1>
 <h3 align="center">I enjoy transforming complex data into actionable insights. With hands-on experience in tools like Python, SQL, and Tableau, I aim to bridge the gap between data and decision-making. I’m eager to take on challenging roles where I can contribute to impactful analytics projects and grow as a data-driven problem solver.</h3>
 
