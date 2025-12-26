@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Divish Jindal</h1>
+<h3 align="center">I enjoy transforming complex data into actionable insights. With hands-on experience in tools like Python, SQL, and Tableau, I aim to bridge the gap between data and decision-making. I’m eager to take on challenging roles where I can contribute to impactful analytics projects and grow as a data-driven problem solver.</h3>
+
 <!-- Header GIF -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -12,13 +15,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Divish Jindal</h1>
-<h3 align="center">I enjoy transforming complex data into actionable insights. With hands-on experience in tools like Python, SQL, and Tableau, I aim to bridge the gap between data and decision-making. I’m eager to take on challenging roles where I can contribute to impactful analytics projects and grow as a data-driven problem solver.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
